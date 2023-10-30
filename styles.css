@@ -1,0 +1,9 @@
+.main{display:flex;
+border: 2px solid black;
+}
+.main img{
+display:flex;
+width:150%;
+height:auto;
+padding:8px;
+}
